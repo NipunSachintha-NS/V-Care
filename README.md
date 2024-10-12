@@ -1,2 +1,2 @@
 # V-Care
-Vehicle caring and maintenance application
+Vehicle caring and Maintenance Application
