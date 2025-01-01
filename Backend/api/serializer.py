@@ -33,8 +33,4 @@ class UserRegisterSerializer(serializers.ModelSerializer):
     
 
 
-class TeaLeaveSerializer(serializers.ModelSerializer):
-    class Meta:
-        model=TeaLeaves
-        fields="__all__"
 
