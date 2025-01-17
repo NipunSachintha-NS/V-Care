@@ -1,5 +1,6 @@
 import React from "react";
 import Navbar from "../Component/Navbar";
+import GarageMap from "../Component/GarageMap";
 
 const Home = () => {
   return (
@@ -69,7 +70,7 @@ const Home = () => {
             Explore Nearby Services
           </h2>
           <div className="w-full h-96 bg-gray-300 rounded-lg">
-            <p className="text-gray-700 mt-36">Google Maps Integration Coming Soon...</p>
+            <GarageMap/>
           </div>
         </div>
       </section>
